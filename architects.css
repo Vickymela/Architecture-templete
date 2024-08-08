@@ -33,7 +33,7 @@ body {
   padding: 0 20px;
 }
 .main-bg {
-  background-image: url(file:///C:/Users/User/Documents/W3Schools-2021-09-19/w3images/architect.jpg);
+  background-image: url(/img/architect.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-height: 600px;
@@ -151,13 +151,13 @@ body {
   border: 1px solid #ccc;
 }
 .main-contact-frm input[type="submit"] {
-  width: 15%;
+  width: 25%;
   background-color: #000;
   color: #fff;
   text-transform: uppercase;
 }
 .footer-img{
-  background-image: url(file:///C:/Users/User/Documents/W3Schools-2021-09-19/w3images/map.jpg);
+  background-image: url(/img/map.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-height: 700px;
