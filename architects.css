@@ -33,7 +33,7 @@ body {
   padding: 0 20px;
 }
 .main-bg {
-  background-image: url(/img/architect.jpg);
+  background-image: url(./architect.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-height: 600px;
@@ -157,7 +157,7 @@ body {
   text-transform: uppercase;
 }
 .footer-img{
-  background-image: url(/img/map.jpg);
+  background-image: url(./map.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   min-height: 700px;
